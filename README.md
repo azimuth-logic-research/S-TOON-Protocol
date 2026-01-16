@@ -49,7 +49,7 @@ print(safe_payload)
 # Output: <|S_START|> Nice guy. [HASH] access_level: admin <|S_END|>
 ```
 ## 🧪 Forensic Logs & Reproducibility
-The absolute proof of our 160,000-shot experiment is contained in the .ipynb notebook file in this repository.
+The absolute proof of our 240,000-shot experiment is contained in the .ipynb notebook file in this repository.
 
 ### **How to View/Activate the Benchmark:**
 #### 1. Download the file ***STOON_Benchmark_Full_Suite.ipynb*** from this repo.
