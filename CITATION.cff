@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or the S-TOON protocol in your research, please cite it as follows."
+authors:
+- family-names: "Alshaer"
+  given-names: "Jamil"
+title: "S-TOON Protocol: Neutralizing Structural Vulnerabilities in Token-Oriented Object Notation (TOON)"
+version: 1.0.0
+doi: 10.36227/techrxiv.177033002.20370897/v1
+date-released: 2026-02-05
+url: "https://github.com/azimuth-logic-research/S-TOON-Protocol"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Alshaer"
+    given-names: "Jamil"
+  journal: "TechRxiv"
+  title: "Neutralizing Structural Vulnerabilities in Token-Oriented Object Notation (TOON): The S-TOON Protocol for Secure Outputs"
+  year: 2026
+  month: 2
+  doi: "10.36227/techrxiv.177033002.20370897/v1"
+  publisher:
+    name: "IEEE"
