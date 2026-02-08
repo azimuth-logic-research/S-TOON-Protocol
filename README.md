@@ -101,15 +101,18 @@ import stoon
 ### If you use the S-TOON Protocol, the benchmark suite, or the TOON vulnerability analysis in your research, please cite the following paper:
 
 **Plain Text:**
-Jamil Alshaer, "Neutralizing Structural Vulnerabilities in Token-Oriented Object Notation (TOON): The S-TOON Protocol for Secure Outputs," IEEE TechRxiv, 2026. [Online]. Available: (Currently under review.)
+> Jamil Alshaer, "Neutralizing Structural Vulnerabilities in Token-Oriented Object Notation (TOON): The S-TOON Protocol for Secure Outputs," *TechRxiv*, Feb. 05, 2026. DOI: 10.36227/techrxiv.177033002.20370897/v1
 
 **BibTeX:**
 ```bibtex
 @article{alshaer2026stoon,
   title={Neutralizing Structural Vulnerabilities in Token-Oriented Object Notation (TOON): The S-TOON Protocol for Secure Outputs},
   author={Alshaer, Jamil},
-  journal={IEEE TechRxiv},
+  journal={TechRxiv},
   year={2026},
+  month={February},
+  day={05},
   publisher={IEEE},
-  url={https://doi.org/(Under review)}
+  doi={10.36227/techrxiv.177033002.20370897/v1},
+  url={https://doi.org/10.36227/techrxiv.177033002.20370897/v1}
 }
